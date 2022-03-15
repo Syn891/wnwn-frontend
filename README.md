@@ -1,6 +1,8 @@
 
 <img src="https://i.ibb.co/YTPxJWZ/Wn-Wn-Logo-Black.png" width="100" height="100">
 
+<img src="https://i.ibb.co/r7b5ywh/ezgif-com-gif-maker.gif" alt="screenshot" width="250" height="500" />
+
 # WasteNot: WantNot
 
 An all encompassing app that allows households to plan their meals, track expiry dates of items in their pantry and find local food donation points to donate surplus items.
